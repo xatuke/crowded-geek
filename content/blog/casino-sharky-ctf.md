@@ -1,5 +1,5 @@
 ---
-title: "Casino | Sharky CTF"
+title: "Sharky CTF | Casino"
 date: 2020-09-29T22:09:20Z
 slug: ""
 description: "Sharky CTF Writeup for Casino Challenge."
