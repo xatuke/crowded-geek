@@ -1,6 +1,6 @@
 ---
 title: "Django: rapid development and clean, pragmatic design"
-date: 2020-09-29T22:37:34Z
+date: 2018-11-13T22:37:34Z
 slug: ""
 description: "Django tutorial by Aayushman Choudhary"
 keywords: ["python", "django", "beginner"]

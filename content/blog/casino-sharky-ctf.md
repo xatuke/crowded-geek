@@ -1,6 +1,6 @@
 ---
 title: "Sharky CTF | Casino"
-date: 2020-09-29T22:09:20Z
+date: 2020-04-11T22:09:20Z
 slug: ""
 description: "Sharky CTF Writeup for Casino Challenge."
 keywords: ["Sharky CTF", "2020", "Cyber Security", "Writeup", "Casino"]

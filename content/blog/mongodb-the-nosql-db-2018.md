@@ -1,6 +1,6 @@
 ---
 title: "MongoDB: The NoSQL Database"
-date: 2020-09-29T22:28:42Z
+date: 2018-11-16T22:28:42Z
 slug: ""
 description: "A Database with no SQL"
 keywords: ["mongodb", "nosql", "db", "database"]
