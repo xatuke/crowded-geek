@@ -1,6 +1,6 @@
 ---
 title: "CastorsCTF | Password Crack 1"
-date: 2020-10-01T02:37:15+05:30
+date: 2020-06-01T02:37:15+05:30
 slug: ""
 description: "Writeup for password crack 1 in castors ctf."
 keywords: ["CastorsCTF", "2020", "Cyber Security", "Writeup", "MD5"]

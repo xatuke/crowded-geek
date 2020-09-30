@@ -1,6 +1,6 @@
 ---
 title: "CastorsCTF | Two Paths"
-date: 2020-10-01T02:37:56+05:30
+date: 2020-06-01T02:37:56+05:30
 slug: ""
 description: "Writeup for two paths in castors ctf."
 keywords: ["CastorsCTF", "2020", "Cyber Security", "Writeup"]

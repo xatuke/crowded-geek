@@ -1,6 +1,6 @@
 ---
 title: "CastorsCTF | Shortcuts"
-date: 2020-10-01T02:37:34+05:30
+date: 2020-06-01T02:37:34+05:30
 slug: ""
 description: "Writeup for shortcuts in castors ctf."
 keywords: ["CastorsCTF", "2020", "Cyber Security", "Writeup"]

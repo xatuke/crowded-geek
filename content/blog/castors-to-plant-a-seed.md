@@ -1,6 +1,6 @@
 ---
 title: "CastorsCTF | To Plant a Seed"
-date: 2020-10-01T02:37:47+05:30
+date: 2020-06-01T02:37:47+05:30
 slug: ""
 description: "Writeup for to plant a seed in castors ctf."
 keywords: ["CastorsCTF", "2020", "Cyber Security", "Writeup"]
