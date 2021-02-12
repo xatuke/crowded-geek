@@ -85,7 +85,7 @@ It’s done!
 
 ```
     echo 'deb http://downloads-distro.mongodb.org/repo/ubuntu-upstart dist 10gen' 
-       | sudo tee /etc5/pt/sources.list.d/mongodb.list
+       | sudo tee /etc/apt/sources.list.d/mongodb.list
 ```
 
 * Next, to update the repositories use. sudo apt-get update
