@@ -1,8 +1,8 @@
 ---
-title: "Hey, it's me, crowded_geek"
+title: "Hey, it's me! crowded_geek"
 date: 2018-12-16T22:18:20Z
 slug: ""
-description: "A summary of Google Code-in 2018 by crowded_geek."
+description: "A summary of Google Code-in 2018."
 keywords: ["Google Code-in", "Open Source", "JBoss Community"]
 draft: false
 tags: ["experience"]
